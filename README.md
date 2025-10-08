@@ -42,3 +42,6 @@ Maka didapat akurasi bertambah 2%, yaitu 82%. dengan ROC Score : 89%
 <img width="1284" height="728" alt="image" src="https://github.com/user-attachments/assets/ebb338e4-3e34-4d81-a4ec-ada669c2d30e" />
 
 
+Link Google Collab : 
+https://colab.research.google.com/drive/12bCxcSvP415SbI0yRR75cNaTmxCTaxCR?usp=sharing
+
