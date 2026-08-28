@@ -1,6 +1,8 @@
 # Penerapan Deep Learning untuk Klasifikasi Penyakit Jantung Berdasarkan Dataset UCI Heart Disease 
 Penerapan metode Deep Learning untuk Klasifikasi Penyakit Jantung Berdasarkan Dataset UCI Heart Disease dengan Evaluasi Akurasi dan Recall.
 
+<img width="1600" height="1077" alt="hdl" src="https://github.com/user-attachments/assets/78b54603-18fd-465d-8407-d0f64b5c3333" />
+
 
 1. Business Problem Understanding
 Tujuan :
